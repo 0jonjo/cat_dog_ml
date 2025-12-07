@@ -1,4 +1,4 @@
-# Supervised Machine Learning for Image Classification
+# CAT-DOG: Supervised Machine Learning for Image Classification
 
 A step-by-step framework for a supervised machine learning project focused on image classification, using a Cat vs. Dog problem as an example.
 
